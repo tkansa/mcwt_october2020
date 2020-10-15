@@ -17,9 +17,9 @@
         },
         {
             name: "Tiia Kansa",
-            from: "",
-            favoriteFood: "",
-            hobbies: []
+            from: "Detroit",
+            favoriteFood: "Sichuan",
+            hobbies: ["reading"]
 
         },
         {
